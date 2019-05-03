@@ -1,3 +1,3 @@
 # K-Nearest-Neighbor
 
-<img src='Picture1.png>
+<img src='Picture1.png'>
